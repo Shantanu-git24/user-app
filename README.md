@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+Then fill up the sign up form.
+then verify the email with otp.
+Then login to the dashboard and update the details.
 
 ### `npm test`
 
